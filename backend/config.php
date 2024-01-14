@@ -2,7 +2,7 @@
 
 	// konfiguracio es kotelezo parameterek ellenorzese
 	
-	define( 'API_URL', '' );
+	define( 'API_URL', '' ); // API vegpont base URL-je, pl. http://localhost/filmlexikonapi
 	
 	define( 'DB_HOST', '' );
 	define( 'DB_USER', '' );

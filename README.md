@@ -23,13 +23,7 @@ Adatbázismodell-diagram: **backend/database-diagram.png**
 Telepítése: egy webszerveren végezzük el a következő lépéseket:
 - a teljes **backend** mappa tartalmát másoljuk a webszerver megfelelő mappájába, pl. Xampp htdocs/filmlexikonapi, ahol a kliensek elérhetik az api.php végpontot, pl. http://localhost/filmlexikonapi
 - hozzunk létre egy MySQL adatbázist és importáljuk bele a **backend/filmlexikon.sql** dump file-t
-- töltsük ki a **config.php** -t a következők alapján:
-
-API_URL: az API végpont base URL-je, pl. http://localhost/filmlexikonapi
-DB_HOST: adatbázis kiszolgáló, pl. localhost
-DB_USER: adatbázis felhasználó
-DB_PW: adatbázis jelszó
-DB_DB: adatbázis neve
+- töltsük ki a **config.php** elején lévő adatokat
 
 Az API végpont a fenti példa alapján a következő: http://localhost/filmlexikonapi/api.php
 
@@ -60,8 +54,7 @@ Telepítés / indítás:
 - ezután indítható az admin kliens a **bin/Debug/filmlexikon.exe** -vel
 
 ## Dokumentáció
-A projekt dokumentációja a **dokumentacio.pdf** -ben vagy [ezen a Google Drive linken](https://docs.google.com/document/d/1E4QRh4jaOvs4DvbWKQDskpf_yccLnIsGO3_VsS7Y7Gg) érhető el
+A projekt dokumentációja a **dokumentacio.pdf** -ben vagy [ezen a Google Drive linken](https://docs.google.com/document/d/1E4QRh4jaOvs4DvbWKQDskpf_yccLnIsGO3_VsS7Y7Gg){:target="_blank"} érhető el
 
 ## Online demó
-A felhasználói frontend kliens [ide kattintva](https://filmlexikon.dev.impressive.hu) kipróbálható.
-
+A felhasználói frontend kliens [ide kattintva](https://filmlexikon.dev.impressive.hu){:target="_blank"} kipróbálható.
