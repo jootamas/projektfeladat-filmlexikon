@@ -54,7 +54,7 @@ Telepítés / indítás:
 - ezután indítható az admin kliens a **bin/Debug/filmlexikon.exe** -vel
 
 ## Dokumentáció
-A projekt dokumentációja a **dokumentacio.pdf** -ben vagy [ezen a Google Drive linken](https://docs.google.com/document/d/1E4QRh4jaOvs4DvbWKQDskpf_yccLnIsGO3_VsS7Y7Gg){:target="_blank"} érhető el
+A projekt dokumentációja a **dokumentacio.pdf** -ben vagy [ezen a Google Drive linken](https://docs.google.com/document/d/1E4QRh4jaOvs4DvbWKQDskpf_yccLnIsGO3_VsS7Y7Gg) érhető el
 
 ## Online demó
-A felhasználói frontend kliens [ide kattintva](https://filmlexikon.dev.impressive.hu){:target="_blank"} kipróbálható.
+A felhasználói frontend kliens [ide kattintva](https://filmlexikon.dev.impressive.hu) kipróbálható.
