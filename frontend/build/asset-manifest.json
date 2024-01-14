@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/filmlexikon/static/css/main.750c64e4.css",
+    "main.js": "/filmlexikon/static/js/main.bb3ee829.js",
+    "static/js/787.44487d01.chunk.js": "/filmlexikon/static/js/787.44487d01.chunk.js",
+    "index.html": "/filmlexikon/index.html",
+    "main.750c64e4.css.map": "/filmlexikon/static/css/main.750c64e4.css.map",
+    "main.bb3ee829.js.map": "/filmlexikon/static/js/main.bb3ee829.js.map",
+    "787.44487d01.chunk.js.map": "/filmlexikon/static/js/787.44487d01.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.750c64e4.css",
+    "static/js/main.bb3ee829.js"
+  ]
+}

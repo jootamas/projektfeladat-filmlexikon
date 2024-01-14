@@ -1,0 +1,12 @@
+/bin/php /var/www/dualis/backend/phpunit.phar --no-configuration --filter ApiTest --test-suffix ApiTest.php /var/www/dualis/backend/tests --teamcity --cache-result-file=/var/www/dualis/backend/.phpunit.result.cache
+Testing started at 6:00 PM ...
+PHPUnit 10.5.5 by Sebastian Bergmann and contributors.
+
+Runtime:       PHP 8.1.2-1ubuntu2.10
+
+Time: 00:01.233, Memory: 24.58 MB
+
+OK (5 tests, 30 assertions)
+
+Process finished with exit code 0
+
